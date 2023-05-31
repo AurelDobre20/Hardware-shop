@@ -1,6 +1,7 @@
 Hardware Shop Application
 
 The Hardware Shop Application is a Windows Form app built using C# and SQLite, designed to provide a convenient shopping experience for customers and an efficient management system for admins. With an intuitive interface and robust functionalities, the application allows users to browse and purchase computers and components while providing admins with tools to manage the stock effectively.
+
 Features
 
 Customer Mode
