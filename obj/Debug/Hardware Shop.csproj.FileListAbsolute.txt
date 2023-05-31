@@ -1,0 +1,20 @@
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware Shop.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware_Shop.AddComponentOrPc.resources
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware_Shop.AddEditFormComponent.resources
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware_Shop.AddEditFormComputer.resources
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware_Shop.Login.resources
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware_Shop.AdminOrCustomer.resources
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware_Shop.Properties.Resources.resources
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware Shop.csproj.GenerateResource.cache
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware Shop.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\bin\Debug\database1.db
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\bin\Debug\Hardware Shop.exe.config
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\bin\Debug\Hardware Shop.exe
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\bin\Debug\Hardware Shop.pdb
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware Shop.csproj.CopyComplete
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware Shop.exe
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware Shop.pdb
+C:\Users\Ryan\Desktop\facultate\An 3\sem2\sdd\Hardware Shop\obj\Debug\Hardware_Shop.Shop.resources
